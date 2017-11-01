@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Трамвай по цветам</string>
+    <string name="YOUR_ADMOB_APP_ID">ca-app-pub-6241902574805122~9716001980</string>
+    <string name="NoTram">Извините, но такой трамвай не найден</string>
+    <string name="tram">tram</string>
+    <string name="availableRoutes">Возможные Маршруты:</string>
+    <string name="selectColor">Выберите Цвета</string>
+</resources>
